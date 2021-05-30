@@ -1,1 +1,1 @@
-# EmployeeWageJavaScipt
+# EmployeeWageJavascript
